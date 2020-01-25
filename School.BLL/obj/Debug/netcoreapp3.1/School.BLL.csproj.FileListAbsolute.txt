@@ -1,0 +1,11 @@
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\bin\Debug\netcoreapp3.1\School.BLL.deps.json
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\bin\Debug\netcoreapp3.1\School.BLL.dll
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\bin\Debug\netcoreapp3.1\School.BLL.pdb
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\obj\Debug\netcoreapp3.1\School.BLL.csprojAssemblyReference.cache
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\obj\Debug\netcoreapp3.1\School.BLL.AssemblyInfoInputs.cache
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\obj\Debug\netcoreapp3.1\School.BLL.AssemblyInfo.cs
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\obj\Debug\netcoreapp3.1\School.BLL.dll
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\obj\Debug\netcoreapp3.1\School.BLL.pdb
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\bin\Debug\netcoreapp3.1\School.DAL.dll
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\bin\Debug\netcoreapp3.1\School.DAL.pdb
+C:\Mahesh\Apps\QuantumIT\Services\School.BLL\obj\Debug\netcoreapp3.1\School.BLL.csproj.CopyComplete

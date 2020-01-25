@@ -1,0 +1,10 @@
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\bin\Debug\netcoreapp3.1\School.DAL.deps.json
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\bin\Debug\netcoreapp3.1\School.DAL.dll
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\bin\Debug\netcoreapp3.1\School.DAL.pdb
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\obj\Debug\netcoreapp3.1\School.DAL.csprojAssemblyReference.cache
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\obj\Debug\netcoreapp3.1\School.DAL.AssemblyInfoInputs.cache
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\obj\Debug\netcoreapp3.1\School.DAL.AssemblyInfo.cs
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\obj\Debug\netcoreapp3.1\School.DAL.dll
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\obj\Debug\netcoreapp3.1\School.DAL.pdb
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\bin\Debug\netcoreapp3.1\School.DAL.runtimeconfig.json
+C:\Mahesh\Apps\QuantumIT\Services\School.DAL\bin\Debug\netcoreapp3.1\School.DAL.runtimeconfig.dev.json
