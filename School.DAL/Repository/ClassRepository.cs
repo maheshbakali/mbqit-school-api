@@ -52,7 +52,9 @@ namespace School.DAL.Repository
         public void Delete(long id)
         {
             var existingEntity = _context.Classes.Single(e => e.ClassId == id);
+            var teacher = _context.Teachers.Single(e => e.TeacherId == existingEntity.TeacherId);
             _context.Classes.Remove(existingEntity);
+            _context.Teachers.Remove(teacher);
         }
 
         public IEnumerable<Class> GetAllByClassId(long id)

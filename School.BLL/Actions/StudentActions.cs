@@ -4,6 +4,7 @@ using School.DAL.Models;
 using School.DAL.UnitOfWork;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -46,6 +47,12 @@ namespace School.BLL.Actions
 
         public long Add(StudentDto entity)
         {
+            var students = _unitOfWork.StudentRepository.GetAllByClassId(entity.ClassId).ToList();
+            if(students.Any(e => e.LastName.Equals(entity.LastName, StringComparison.OrdinalIgnoreCase)))
+            {
+                throw new Exception("Surname must be unique within class.");
+            }
+            
             var studentObj = _mapper.Map<Student>(entity);
             _unitOfWork.StudentRepository.Add(studentObj);
             _unitOfWork.Save();
