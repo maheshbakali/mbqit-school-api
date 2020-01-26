@@ -12,5 +12,7 @@ API is deployed to Azure app service and you can find swagger definitions @ http
 Specific endpoints available are
 
 https://mbqitschool.azurewebsites.net/v1/classes
+
 https://mbqitschool.azurewebsites.net/v1/students
+
 https://mbqitschool.azurewebsites.net/v1/salutations
