@@ -27,7 +27,10 @@ namespace School.DAL.Repository
 
         public Class Get(long id)
         {
-            return _context.Classes.FirstOrDefault(e => e.ClassId == id);
+            return _context.Classes
+                .Include(c => c.Teacher)
+                .ThenInclude(t => t.Salutation)
+                .FirstOrDefault(e => e.ClassId == id);
         }
 
         public void Add(Class entity)
